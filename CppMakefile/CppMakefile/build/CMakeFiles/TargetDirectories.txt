@@ -1,0 +1,3 @@
+/Volumes/DISCO_DADOS_A/terminal_root_cpp_moderno/CppMakefile/CppMakefile/build/CMakeFiles/helloworld.dir
+/Volumes/DISCO_DADOS_A/terminal_root_cpp_moderno/CppMakefile/CppMakefile/build/CMakeFiles/edit_cache.dir
+/Volumes/DISCO_DADOS_A/terminal_root_cpp_moderno/CppMakefile/CppMakefile/build/CMakeFiles/rebuild_cache.dir
